@@ -1039,6 +1039,7 @@ ol {
 -----------------------*/
 
 .breadcrumb-section {
+	height: 200px;
 	display: flex;
 	align-items: center;
 	padding: 45px 0 40px;
@@ -1046,14 +1047,14 @@ ol {
 
 .breadcrumb__text h2 {
 	font-size: 46px;
-	color: #ffffff;
+	color: red;
 	font-weight: 700;
 }
 
 .breadcrumb__option a {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: red;
 	font-weight: 700;
 	margin-right: 20px;
 	position: relative;
@@ -1072,7 +1073,7 @@ ol {
 .breadcrumb__option span {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: red;
 }
 
 /*---------------------
@@ -2469,7 +2470,7 @@ ol {
 -----------------------*/
 
 .blog-details-hero {
-	height: 350px;
+	height: 200px;
 	display: flex;
 	align-items: center;
 }
@@ -2480,14 +2481,14 @@ ol {
 
 .blog__details__hero__text h2 {
 	font-size: 46px;
-	color: #ffffff;
+	color:  red;
 	font-weight: 700;
 	margin-bottom: 10px;
 }
 
 .blog__details__hero__text ul li {
 	font-size: 16px;
-	color: #ffffff;
+	color: purple;
 	list-style: none;
 	display: inline-block;
 	margin-right: 45px;
@@ -2532,7 +2533,7 @@ ol {
 }
 
 .blog__details__text img {
-	margin-bottom: 30px;
+	text-align: center;
 }
 
 .blog__details__text p {
